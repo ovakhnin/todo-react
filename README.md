@@ -17,4 +17,4 @@ cd example-app
 ```
 
 ## Accessing App
-http://localhost - as default Laravel based project. Simply register with any user details to acces feature.
+URL: http://localhost - as default Laravel based project. Simply register with any user details to access feature.
